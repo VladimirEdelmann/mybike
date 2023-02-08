@@ -56,4 +56,4 @@ If you using another version of the node.js you may need nvm:
 Volodymyr - [telegram](https://t.me/vladimiredelmann) - [linkedin](https://www.linkedin.com/in/volodymyr-hotsaniuk-671424206/)
 
 ## Demo
-- [DEMO LINK](https://vladimiredelmann.github.io/layout_miami/)
+- [DEMO LINK](https://vladimiredelmann.github.io/mybike/)
